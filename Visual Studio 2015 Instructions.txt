@@ -12,4 +12,6 @@ Instructions for installing Visual Studio 2015 Community:
 	 -> Under "Common Tools," check "Github Extension for Visual Studio"
 	 
 	 
-5.) Install. Takes forever.
+5.)  Install. Takes forever.
+
+6.)  Restart
