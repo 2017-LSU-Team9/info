@@ -1,0 +1,15 @@
+Instructions for installing Visual Studio 2015 Community:
+
+1.)  https://www.visualstudio.com/downloads/
+		  -> Click "Free Download" under the Community Version
+
+2.)  Run the downloaded .exe
+
+3.)  Choose Custom instead of Default. Installation takes about 20GB of hard drive free space.
+
+4.)  -> Under "Programming Languages," check the "Visual C++" box.
+	 -> Under "Windows and Web Development," check "Universal Windows App Development Tools" box & uncheck "Microsoft Web Developer Tools"
+	 -> Under "Common Tools," check "Github Extension for Visual Studio"
+	 
+	 
+5.) Install. Takes forever.
