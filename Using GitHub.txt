@@ -1,0 +1,55 @@
+------- Downloading ("pulling") Project from Github For the First Time -------
+
+1. Ensure that Github Visual Studio Extension is installed (or
+   it won't show up).
+   
+2. There should be tabs at the bottom of the "Solution Explorer" window.
+   Click on "Team Explorer" tab
+   
+3. If the "Connect" screen isn't what it opens up to, click the green "plug" symbol.
+
+4. Under "Local Git Respositories," select "Clone."
+
+5. Enter the following URL where it asks: https://github.com/2017-LSU-Team9/Keyboard_Interface_VS
+
+6. Select a path where you want all the files to go. The folder you place it in will also be title.
+   I suggest creating a new one for it in Documents/Visual Studio/Projects/<Name of your choice>
+
+7. Click "Clone."
+
+8. Now the respository should be listed under "Local Git..." with an orange diamond shape 
+   preceeding the name. Double Click it and under "Solutions," you should see
+   "Keyboard_Interface.sln"  Double click it to open the project in VS.
+   
+   
+   
+   
+   
+------- Uploading ("pushing") Changes Made back to Github -------
+
+1. Save all changes made.
+
+2. At the bottom of VS, you will see an up arrow, a pen symbol,
+   and the name of the project. Click the pen symbol (the number beside
+   shows the number of files you changed that differ from what's on 
+   Github).
+   
+3. Enter a "commit message" such as "updated" or you can actually summarize what you did 
+   in a short sentence(I think you can see it on github site).
+   
+4. Click "Commit All."
+
+5. A dialog will appear and say that a commit was created locally, "sync to share..."
+   Click the word "Sync" in this dialog box.
+   
+6. Your commit will show under the "Outgoing Commits" dropdown. Click "Push" to upload
+   your changes to Github.
+   
+7. A dialog box will appear and say "Successfully..."
+
+
+
+
+------- Pulling changes (not the first time) -------
+
+1. 
